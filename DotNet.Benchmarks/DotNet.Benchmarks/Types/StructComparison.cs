@@ -30,5 +30,18 @@ namespace DotNet.Benchmarks.Types
 
             return obj;
         }
+
+        [Benchmark]
+        public dynamic ReturnDynamic()
+        {
+            var obj = new StructToTest
+            {
+                Id = 1,
+                Address = "teste",
+                Name = "name"
+            };
+
+            return obj;
+        }
     }
 }
