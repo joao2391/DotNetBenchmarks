@@ -83,7 +83,7 @@ Every method contains a instance of "ClassToTest" with Id, name and address prop
 
 Every method contains a instance of "StructToTest" with Id, name and address properties.
 
-![Struct vs Class vs Dynamic](https://github.com/joao2391/DotNetBenchmarks/blob/master/DotNet.Benchmarks/DotNet.Benchmarks/Types/assets/Result_ObjectComparison2.PNG "Struct vs Class vs Dynamic result benchmarks result")
+![Struct vs Class vs Dynamic](https://github.com/joao2391/DotNetBenchmarks/blob/master/DotNet.Benchmarks/DotNet.Benchmarks/Types/assets/Result_StructComparison2.PNG "Struct vs Class vs Dynamic result benchmarks result")
 
 
 ## Contributing
